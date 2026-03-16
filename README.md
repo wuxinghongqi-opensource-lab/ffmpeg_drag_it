@@ -4,7 +4,9 @@ use ffmpeg convert your video
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 # ffmpeg_drag_it.exe
-  
+ - 直接将单个 / 多个视频文件拖拽到 ffmpeg_drag_it.exe 图标上 | Directly drag single/multiple video files onto the ffmpeg_drag_it.exe icon
+ - 工具自动启动转码流程，无需额外操作 | The tool automatically starts the transcoding process without additional operations
+ - 自动还原文件原始创建 / 修改时间戳 | The original creation/modification timestamps are automatically restored
 ## 功能特点
 ## Features
 - 🖥️ 纯CPU处理（无需GPU加速）
@@ -55,6 +57,6 @@ use ffmpeg convert your video
 
 # sort_your_ffmpeg_window.exe
   
-## sort_your_ffmpeg_window.exe 可排序 FFmpeg 转码窗口
-## sort_your_ffmpeg_window.exe can sort FFmpeg transcoding windows
+### sort_your_ffmpeg_window.exe 可排序 FFmpeg 转码窗口
+### sort_your_ffmpeg_window.exe can sort FFmpeg transcoding windows
 ------------------------------------------------------------------------------------------------------------------------------------------------
