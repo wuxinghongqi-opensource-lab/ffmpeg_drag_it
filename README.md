@@ -55,6 +55,6 @@ use ffmpeg convert your video
 
 # sort_your_ffmpeg_window.exe
   
-sort_your_ffmpeg_window.exe 可排序 FFmpeg 转码窗口
-sort_your_ffmpeg_window.exe can sort FFmpeg transcoding windows
+## sort_your_ffmpeg_window.exe 可排序 FFmpeg 转码窗口
+## sort_your_ffmpeg_window.exe can sort FFmpeg transcoding windows
 ------------------------------------------------------------------------------------------------------------------------------------------------
